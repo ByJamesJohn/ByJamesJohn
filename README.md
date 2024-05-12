@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on enhancing my proficiency in Python and Java.
+- 🌱 I’m currently learning about cloud computing and cybersecurity.
+- 👯 I’m looking to collaborate on hackathons and coding competitions.
+- 🤔 I’m looking for help with optimizing code for performance.
+- 💬 Ask me about my experience with building web applications or my favorite programming languages.
+- 📫 How to reach me: Drop me a message on Discord: James#1234.
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I play the guitar and enjoy composing my own music in my spare time!
 <!--
 **ByJamesJohn/ByJamesJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
